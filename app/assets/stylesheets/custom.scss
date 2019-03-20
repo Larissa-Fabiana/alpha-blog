@@ -7,15 +7,15 @@ $navbar-default-bg: #08088A;
 #logo {
   float: left;
   font-size: 1.7em;
-  color: #fff;
   text-transform: uppercase;
   letter-spacing: -1px;
   font-weight: bold;
+  color: #fff;
 }
 
 #logo:hover {
-  color: #fff;
   text-decoration: none;
+  color: #fff;
 }
 
 .center {
@@ -29,16 +29,25 @@ $navbar-default-bg: #08088A;
 }
 
 .jumbotron h1 {
-  color: #fff;
   text-align: center;
   margin-botton: 30px;
   letter-spacing: -1px;
   font-weight: bold;
+  color: #fff;
 }
 
 .btn-xlarge {
   font-size: 1.7em;
   background-color: black ;
+}
+
+.article-actions {
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+}
+
+.description {
+  margin-top: 0px;
 }
 
 footer {
