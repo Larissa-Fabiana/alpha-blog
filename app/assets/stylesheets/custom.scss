@@ -1,4 +1,4 @@
-$navbar-default-bg: #08088A;
+$navbar-default-bg: #000;
 
 
 @import "bootstrap-sprockets";
@@ -48,6 +48,17 @@ $navbar-default-bg: #08088A;
 
 .description {
   margin-top: 0px;
+}
+
+.article-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.article-body {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-top: 1px solid #eaeaea; 
 }
 
 footer {
